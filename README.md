@@ -1,7 +1,7 @@
 <h1 align="center">IG61</h1>
 
 ###
-
+---
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 12px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="raspberrypi logo" />
