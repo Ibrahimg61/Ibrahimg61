@@ -39,9 +39,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ibrahimg61&show_icons=true&theme=github_dark" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahimg61&layout=compact&theme=github_dark" height="165"/>
 </p>
+---
 -->
 
----
 
 ### 🔥 Contribution Activity
 <p align="center">
